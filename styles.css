@@ -63,6 +63,7 @@ button:hover {
 }
 
 .tasks {
+  list-style: none;
 }
 
 .tasks input {
