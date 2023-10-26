@@ -1,0 +1,23 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKdev431/JS-TS-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKdev431/JS-TS-practice/issues"
+  },
+  "homepage": "https://github.com/MKdev431/JS-TS-practice#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
